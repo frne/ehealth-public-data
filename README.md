@@ -1,4 +1,4 @@
-# Public Datasets I Made
+# Public Datasets
 
 **This is just a collection of public data I collected / processed. Feel free to use it...**
 
