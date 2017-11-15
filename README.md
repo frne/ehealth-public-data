@@ -1,11 +1,8 @@
-# eHealth-public-data
-Public Datasets for eHealth Applications / Calculations
+# Public Datasets I Made
 
-## CSV
+**This is just a collection of public data I collected / processed. Feel free to use it...**
 
-CSV Datasets
-
-### Fachgruppenschlüssel
+## Fachgruppenschlüssel
 
 Mapping table to link german doctors to their specialities
 
